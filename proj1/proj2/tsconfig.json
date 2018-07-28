@@ -7,7 +7,7 @@
   "references": [
     { "path": ".." }
   ],
-  "include": [
+  "files": [
     "./imports.ts",
     "./exports.ts"
   ]
